@@ -25,3 +25,7 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
+# Don't upload the book for this project (it's not free)
+# Purchase a copy here: http://teropa.info/build-your-own-angular/
+build_your_own_angularjs.pdf
