@@ -1,14 +1,12 @@
 # My Own AngularJS
 
-Building my own AngularJS framework.
+Building out own AngularJS frameworks.
 
-## Links
-
-### Our Versions
+## Our Repo Links
 
 - Rory: [RoryGMacDonald/myangular](https://github.com/RoryGMacDonald/myangular)
 - Alistair: [F1LT3R/my-own-angular](https://github.com/F1LT3R/my-own-angular)
 
-## Purchase The Book
+## The Book
 
 http://teropa.info/build-your-own-angular/
