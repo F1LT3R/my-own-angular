@@ -6,8 +6,8 @@ Building my own AngularJS framework.
 
 ### Our Versions
 
- - Alistair: [F1LT3R/my-own-angular](https://github.com/F1LT3R/my-own-angular)
- - Rory: [/RoryGMacDonald/myangular](https://github.com/RoryGMacDonald/myangular)
+- Rory: [RoryGMacDonald/myangular](https://github.com/RoryGMacDonald/myangular)
+- Alistair: [F1LT3R/my-own-angular](https://github.com/F1LT3R/my-own-angular)
 
 ## Purchase The Book
 
