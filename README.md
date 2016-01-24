@@ -1,6 +1,6 @@
 # My Own AngularJS
 
-Building out own AngularJS frameworks.
+Building an AngularJS framework from scratch.
 
 ## Our Repo Links
 
