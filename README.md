@@ -10,3 +10,7 @@ Building an AngularJS framework from scratch.
 ## The Book
 
 http://teropa.info/build-your-own-angular/
+
+## Current Location
+
+Page: 33
